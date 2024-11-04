@@ -1,0 +1,25 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /Users/pranavshridhar/Desktop/476RetardedShit/Homework2/src/main/scala/Breakspeare.scala:56:4 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m56 |[0m    enterInstanceScope(instance.instanceEnvironment)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m    ^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m    Not found: enterInstanceScope[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /Users/pranavshridhar/Desktop/476RetardedShit/Homework2/src/main/scala/Breakspeare.scala:66:4 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m66 |[0m    enterInstanceScope(instance.instanceEnvironment)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m    ^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m    Not found: enterInstanceScope[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /Users/pranavshridhar/Desktop/476RetardedShit/Homework2/src/main/scala/Breakspeare.scala:77:27 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m77 |[0m        [33mif[0m (inNestedClass) exitInstanceScope() [33melse[0m exitInstanceScope()[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                           ^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                           Not found: exitInstanceScope[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /Users/pranavshridhar/Desktop/476RetardedShit/Homework2/src/main/scala/Breakspeare.scala:77:52 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m77 |[0m        [33mif[0m (inNestedClass) exitInstanceScope() [33melse[0m exitInstanceScope()[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                                                    ^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                                            Not found: exitInstanceScope[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
